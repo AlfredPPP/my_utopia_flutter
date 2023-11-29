@@ -1,16 +1,6 @@
 # my_utopia_flutter
+# MyUtopia Submodule: Flutter-Based Frontend Maintenance
 
-MyUtopia Flutter project.
+This submodule is a dedicated component of the MyUtopia project, focusing on the maintenance and development of MyUtopia's Flutter-based frontend. This repository welcomes contributions and suggestions to improve the frontend architecture, optimize performance, and integrate the latest Flutter features for a superior user interface. 
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Link to MyUtopia: [https://github.com/AlfredPPP/MyUtopia.git](https://github.com/AlfredPPP/MyUtopia.git)
